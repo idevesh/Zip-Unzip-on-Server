@@ -15,7 +15,7 @@ PHP 5.3 and newer
 
 ## Usage
 * Download unzipper.php and place it in the same directory as your .zip archive.
-* In Browser type URL to unzipper.php
+* In Browser type URL to unzip.php
 
 ### Archive unzipper
 * Choose .zip, .rar archive or .gz file you want to extract
